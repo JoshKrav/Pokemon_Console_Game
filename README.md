@@ -7,9 +7,13 @@ In this console game, you play as a grunt from the evil organization Team Plasma
 
 ## 🕹️ Controls
 Right Arrow Key - Move Right
+
 Left Arrow Key - Move Left
+
 Up Arrow Key - Move Up
+
 Down Arrow Key - Move Down
+
 Select choices by typing the number in and pressing enter.
 
 ## 🖼️ Images
