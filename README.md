@@ -18,3 +18,6 @@ Select choices by typing the number in and pressing enter.
 
 ## 🖼️ Images
 
+![Title](./images/Pokemon_Title.png) 
+
+![Battle](./images/Pokemon_Battle.png) 
